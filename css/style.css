@@ -6,7 +6,6 @@
 }
 
 
-
 #influence{
     background-image:url(../photos/background.jpg);
     background-position:center;
@@ -43,15 +42,65 @@
 }
 
 #influence a{
-    border: 1px solid #f7b10a;
-    padding: 17px 30px ;
-    margin:20px -10px -10px;
+
+
     display: inline-block;
-    font-family:Open Sans,Arial,Helvetica,sans-serif;
-    color:#f7b10a;
+	padding:10px 30px;
+	border: 1px solid #f7b10a;
+	color:#f7b10a;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
+    
+}
+
+#avenement{
+    background-image:url(../photos/fond.jpg);
+    background-position:center;
+    
+}
+
+#avenement h2{
+    font-family: Open Sans,Helvetica,Arial, Helvetica, sans-serif;
+    color: #ebdec2;
     font-size: 17px;
-    font-weight:350;
+    font-weight: 400;
     text-transform: uppercase;
-    margin-bottom: 70px;
+    text-align: left;
+    padding-top: 70px;
+  
+}
+
+#avenement h1{
+    font-family:Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+    color:#fff;
+    font-size:52px;
+    font-weight:700;
+    text-align: left;
+    padding-top:
+
+}
+
+#avenement p{
+    
+    font-family:Open Sans,Arial,Helvetica,sans-serif;
+    color:#ebdec2;
+    font-size:17px;
+    font-weight:400;
+    text-align: left;
+    
+}
+
+#avenement a{
+
+
+    display: inline-block;
+	padding:10px 30px;
+	border: 1px solid #f7b10a;
+	color:#f7b10a;
+	text-transform: uppercase;
+	text-decoration: none;	
+    margin-bottom:70px;
+    
     
 }
