@@ -14,31 +14,30 @@
 
 #influence h2{
     font-family: Open Sans,Helvetica,Arial, Helvetica, sans-serif;
-    color: #ebdec2;
-    font-size: 17px;
-    font-weight: 400;
-    text-transform: uppercase;
-    text-align: right;
-    padding-top: 70px;
+    color: rgb(235, 222, 194);
+	text-align: right;
+	font-weight:400;
+	font-size:17px;
+	text-transform: uppercase;
+	padding-top:80px;
   
 }
 
 #influence h1{
     font-family:Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
-    color:#fff;
-    font-size:52px;
-    font-weight:700;
-    text-align: right;
-    padding-top:
+    color: rgb(235, 222, 194);
+	font-size:17px;
+	text-align:right;
+	margin-bottom:30px;
 
 }
 
 #influence p{
     font-family:Open Sans,Arial,Helvetica,sans-serif;
-    color:#ebdec2;
-    font-size:17px;
-    font-weight:400;
-    text-align: right;
+	color: rgb(235, 222, 194);
+	font-size:17px;
+	text-align:right;
+	margin-bottom:30px;
 }
 
 #influence a{
@@ -57,37 +56,39 @@
 #avenement{
     background-image:url(../photos/fond.jpg);
     background-position:center;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
     
 }
 
 #avenement h2{
     font-family: Open Sans,Helvetica,Arial, Helvetica, sans-serif;
-    color: #ebdec2;
-    font-size: 17px;
-    font-weight: 400;
-    text-transform: uppercase;
-    text-align: left;
+    color: rgb(235, 222, 194);
+	text-align: left;
+	font-weight:400;
+	font-size:17px;
+	text-transform: uppercase;
+	padding-top:80px;
     padding-top: 70px;
   
 }
 
 #avenement h1{
     font-family:Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
-    color:#fff;
-    font-size:52px;
-    font-weight:700;
-    text-align: left;
-    padding-top:
+    color: white;
+	text-align: left;
+	font-weight:700;
+	font-size:52px;
+	margin-bottom:20px;
 
 }
 
 #avenement p{
     
     font-family:Open Sans,Arial,Helvetica,sans-serif;
-    color:#ebdec2;
-    font-size:17px;
-    font-weight:400;
-    text-align: left;
+    color: rgb(235, 222, 194);
+	font-size:17px;
+	text-align:left;
+	margin-bottom:30px;
     
 }
 
@@ -96,12 +97,61 @@
 
     display: inline-block;
 	padding:10px 30px;
-	border: 1px solid #f7b10a;
+	border: 1px solid #ea3012;
 	color:#f7b10a;
 	text-transform: uppercase;
 	text-decoration: none;	
     margin-bottom:70px;
-    margin-right: 10px;
+    background-color:rgba(159, 22, 0, 0.6);
+    margin-right:20px;
+	outline: 1px solid black;
     
     
+}
+
+#avenement a.ensavoir{
+
+	border: 1px solid orange;
+	color:orange;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
+	background-color:rgba(0, 0, 0, 0.4);;
+}
+
+.text1{
+    background-color: #504137;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.text2{
+    background-color: #504137;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.text3{
+    background-color: #504137;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.text4{
+    background-color: #504137;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+#notesdemiseajour h1{
+    color:#f8b700;
+    
+}
+
+#notesdemiseajour p{
+    color:rgb(235, 222, 194);
+}
+
+.img-responsive{
+    width: 100%;
 }
