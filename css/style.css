@@ -119,29 +119,12 @@
 	background-color:rgba(0, 0, 0, 0.4);;
 }
 
-.text1{
+#notesdemiseajour .text{
     background-color: #504137;
     text-align: center;
     padding: 20px 30px;
 }
 
-.text2{
-    background-color: #504137;
-    text-align: center;
-    padding: 20px 30px;
-}
-
-.text3{
-    background-color: #504137;
-    text-align: center;
-    padding: 20px 30px;
-}
-
-.text4{
-    background-color: #504137;
-    text-align: center;
-    padding: 20px 30px;
-}
 
 #notesdemiseajour h1{
     color:#f8b700;
@@ -152,6 +135,8 @@
     color:rgb(235, 222, 194);
 }
 
-.img-responsive{
+#notesdemiseajour .img-responsive{
     width: 100%;
+    object-fit: contain;
+    height: auto;
 }
