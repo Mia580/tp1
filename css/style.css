@@ -120,9 +120,12 @@
 }
 
 #notesdemiseajour .text{
-    background-color: #504137;
+    background-color: #211510;
     text-align: center;
     padding: 20px 30px;
+    border:solid 1px;
+    border-color:rgb(80, 65, 55);
+   
 }
 
 
@@ -137,6 +140,23 @@
 
 #notesdemiseajour .img-responsive{
     width: 100%;
-    object-fit: contain;
-    height: auto;
+    object-fit: cover;
+    height: 500px;
+    border:solid 1px;
+    border-color:rgb(80, 65, 55);
+    
+   
 }
+
+#notesdemiseajour .vignette {
+    background-color: black;
+    padding: 5px;
+    padding-top: 5px;
+    padding-top: 5px;
+    
+    
+}
+
+
+
+
